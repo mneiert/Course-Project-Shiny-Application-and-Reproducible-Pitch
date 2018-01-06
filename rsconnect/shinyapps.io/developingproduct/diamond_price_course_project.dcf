@@ -1,0 +1,12 @@
+name: diamond_price_course_project
+title: Diamond Price Course Project
+username:
+account: developingproduct
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 254325
+bundleId: 1164494
+url: https://developingproduct.shinyapps.io/diamond_price_course_project/
+when: 1515240249.87001
+asMultiple: FALSE
+asStatic: FALSE
